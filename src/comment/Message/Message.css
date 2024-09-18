@@ -1,0 +1,22 @@
+.chatbox{
+    display: inline-block;
+    width: 90%;
+    padding: 2vmax;
+    border-radius: 17px;
+    margin: 1vmax;
+    display: flex;
+   align-items:center ;
+    /* height: 200px;
+    overflow-y:scroll; */
+    height: 10px;
+    background:linear-gradient(to right,black,rgb(46, 0, 46))
+}
+
+.right{
+    background-color: blue;
+    float: right;
+}
+.left{
+    background-color: blue;
+    float: left;
+}

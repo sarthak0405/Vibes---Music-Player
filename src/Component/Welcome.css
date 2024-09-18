@@ -1,0 +1,7 @@
+.mainbg{
+    /* background-image: url("../Assets/welbg.jpg");
+  background-size: cover; */
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+}
